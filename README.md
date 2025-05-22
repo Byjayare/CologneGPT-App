@@ -2,7 +2,7 @@
 We can't make you look better, but we can for sure make sure you shhmell good! 
 
 CologneGPT 🧴🤖
-A personalized fragrance recommendation engine built with Streamlit.
+A personalized fragrance recommendation engine, know your scent, find your next one all in one place.
 
 CologneGPT helps fragrance lovers analyze their collection, discover new layering combos, and get personalized recommendations based on their scent preferences. Whether you love niche, designer, or clone fragrances—this GPT has your nose covered.
 
